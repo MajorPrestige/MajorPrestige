@@ -64,10 +64,3 @@ HellEN - [Code](https://github.com/factvlad/Psychology) /
 Web Studio - [Code](https://github.com/MajorPrestige/WebStudio) /
 [Demo](https://majorprestige.github.io/WebStudio/)<br />
 
-
-
-<!-- [mail]: mailto:vladiverbitsky@gmail.com
-[twitter]: https://twitter.com/vladverbitsky/
-[instagram]: https://www.instagram.com/vladi_verb/
-[telegram]: https://t.me/vlad_verb/
-[github repository]: https://github.com/factvlad/ -->
