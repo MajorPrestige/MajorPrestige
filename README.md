@@ -1,6 +1,7 @@
 <!-- Header -->
-<h1 align="center">Denys Dashkevych</h1>
+
 <div align="center">
+  <h1>Denys Dashkevych</h1>
   <img src="https://readme-typing-svg.demolab.com?font=Red+Hat+Mono&weight=500&size=20&pause=2000&color=00CC00&center=true&width=1000&lines=Front-end+Developer+with+knowledge+in+Back-end+|+MongoDB,+Expres.js,+React,+Node.js" />
 </div>
 
