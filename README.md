@@ -1,9 +1,9 @@
-<!--
-  This README.md is an animated business card made with HTML, CSS and JavaScript
-
-
 <!-- Header -->
-<h1 align="center">[Your Name and Surname]</h1>
+<h1 align="center">Denys Dashkevych</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Red+Hat+Mono&weight=300&size=20&pause=2000&color=00FF00&center=true&width=1000&lines=Front-end+Developer+with+knowledge+in+Back-end+|+MongoDB,+Expres.js,+React,+Node.js" />
+</div>
+
 <p align="center">
   <a href="[Your Website/GitHub Profile]">Website</a> •
   <a href="[Your LinkedIn Profile]">LinkedIn</a> •
@@ -52,4 +52,3 @@
   You can reach me at [Your Email Address] or connect with me on [Your Social Media Platform of Choice].
 </p>
 
--->
