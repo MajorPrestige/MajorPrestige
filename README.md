@@ -8,9 +8,8 @@
 
 <div>
 
-<!-- ## Skills: -->
+## Skills:
 
-<h2>Skills:</h2>
 
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -29,33 +28,46 @@
 
 <img align="left" alt="MongoDB" width="32px" src="https://assets-global.website-files.com/6064b31ff49a2d31e0493af1/63a57609d46c17284c36a721_mongodb.svg" />
 
-<img align="left" alt="Express.js" width="32px" src="./assets/images-removebg-preview.png"/>
+<img alt="Express.js" width="32px" src="./assets/images-removebg-preview.png"/>
 
 </div>
+
+<br />
 
 
 <!-- Projects -->
 
-<!-- <h2 align="center">Projects</h2> -->
+## Projects:
 
-<!-- Project 1 -->
-<h3>[Project 1 Name]</h3>
-<p>[Project 1 Description]</p>
-<p>
-  <a href="[Project 1 Demo URL]">Demo</a> •
-  <a href="[Project 1 Repository URL]">Repository</a>
-</p>
+**[React, Javascript, StyledComponents, Redux-Toolkit, Formik]**<br />
+(During the first page load, the database and server need to wake up, which takes approximately 2 minutes)<br />
+Wallet - [Code](https://github.com/MajorPrestige/wallet_front) /
+[Demo](https://majorprestige.github.io/wallet_front/)<br />
 
-<!-- Project 2 -->
-<h3>[Project 2 Name]</h3>
-<p>[Project 2 Description]</p>
-<p>
-  <a href="[Project 2 Demo URL]">Demo</a> •
-  <a href="[Project 2 Repository URL]">Repository</a>
-</p>
+**[Node.js, Express.js, MongoDB, Passport]**<br />
+Wallet_back - [Code](https://github.com/MajorPrestige/wallet_back) /
+[Docs](https://wallet-back-onrender.onrender.com/api-docs/)<br />
 
-<!-- Contact -->
-<h2 align="center">Contact</h2>
-<p align="center">
-  You can reach me at [Your Email Address] or connect with me on [Your Social Media Platform of Choice].
-</p>
+**[React, TypeScript, Tailwind, SASS, Redux-Toolkit, React-Hook-Form]**<br />
+Slim Mom - [Code](https://github.com/MajorPrestige/slim-mom_ts) /
+[Demo](https://slim-mom-ts.netlify.app/)<br />
+
+**[HTML5, SASS, BEM, Javascript]**<br />
+Event Booster - [Code](https://github.com/MajorPrestige/EventBooster) /
+[Demo](https://majorprestige.github.io/EventBooster/)<br />
+
+**[HTML5, SASS, BEM, Javascript]**<br />
+HellEN - [Code](https://github.com/factvlad/Psychology) /
+[Demo](https://majorprestige.github.io/hellish-english/)<br />
+
+**[HTML5, SASS, BEM]**<br />
+Web Studio - [Code](https://github.com/MajorPrestige/WebStudio) /
+[Demo](https://majorprestige.github.io/WebStudio/)<br />
+
+
+
+<!-- [mail]: mailto:vladiverbitsky@gmail.com
+[twitter]: https://twitter.com/vladverbitsky/
+[instagram]: https://www.instagram.com/vladi_verb/
+[telegram]: https://t.me/vlad_verb/
+[github repository]: https://github.com/factvlad/ -->
