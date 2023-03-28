@@ -24,10 +24,10 @@
 
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-<img align="left" alt="MongoDB" width="32px" src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" />
+<img align="left" alt="MongoDB" width="32px" src="./assets/mongo.png" />
 </div>
 
-<img align="left" alt="Express.js" width="32px" src="https://e7.pngegg.com/pngimages/247/558/png-clipart-node-js-javascript-express-js-npm-react-github-angle-text.png" />
+<img align="left" alt="Express.js" width="32px" src="./assets/express.png"/>
 </div>
 
 
