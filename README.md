@@ -57,7 +57,7 @@ Event Booster - [Code](https://github.com/MajorPrestige/EventBooster) /
 [Demo](https://majorprestige.github.io/EventBooster/)<br />
 
 **[HTML5, SASS, BEM, Javascript]**<br />
-HellEN - [Code](https://github.com/factvlad/Psychology) /
+HellEN - [Code](https://github.com/MajorPrestige/hellish-english) /
 [Demo](https://majorprestige.github.io/hellish-english/)<br />
 
 **[HTML5, SASS, BEM]**<br />
