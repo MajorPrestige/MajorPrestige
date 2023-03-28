@@ -6,9 +6,11 @@
 
 <!-- Skills -->
 
-<div> 
+<div>
 
-## Skills:
+<!-- ## Skills: -->
+
+<h2>Skills:</h2>
 
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -22,19 +24,19 @@
 
 <img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
+
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 <img align="left" alt="MongoDB" width="32px" src="https://assets-global.website-files.com/6064b31ff49a2d31e0493af1/63a57609d46c17284c36a721_mongodb.svg" />
-</div>
 
-<img align="left" alt="Express.js" width="32px" src="./assets/express.png"/>
-</div>
+<img align="left" alt="Express.js" width="32px" src="./assets/images-removebg-preview.png"/>
 
+</div>
 
 
 <!-- Projects -->
 
-<h2 align="center">Projects</h2>
+<!-- <h2 align="center">Projects</h2> -->
 
 <!-- Project 1 -->
 <h3>[Project 1 Name]</h3>
