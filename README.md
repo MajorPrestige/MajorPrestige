@@ -1,6 +1,6 @@
 <!--
   This README.md is an animated business card made with HTML, CSS and JavaScript
--->
+
 
 <!-- Header -->
 <h1 align="center">[Your Name and Surname]</h1>
@@ -52,3 +52,4 @@
   You can reach me at [Your Email Address] or connect with me on [Your Social Media Platform of Choice].
 </p>
 
+-->
